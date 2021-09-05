@@ -3,8 +3,12 @@
  *  Copyright 2021 Marcelino Pozo-Joseph
  */
 /*
-    PSEUDOCODE GOES HERE
-    Basically write out step by step what ur codes doing.
+    PSEUDOCODE
+    -Create a scanner
+    -Prompt the user for 2 seperate inputs
+        -Ask first for a quote
+        -Then ask who said the quote
+    -Finally print out both inputs within quotes using a method that allows quotes to be printed
  */
 package example03;
 
